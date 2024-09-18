@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/458/trunk/Sistema/CAD
+END
+OleDbConexion.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/16/trunk/Sistema/CAD/OleDbConexion.cs
+END
+Ejemplo.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/16/trunk/Sistema/CAD/Ejemplo.Designer.cs
+END
+IConexion.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/16/trunk/Sistema/CAD/IConexion.cs
+END
+CAD.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/345/trunk/Sistema/CAD/CAD.csproj.user
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/16/trunk/Sistema/CAD/app.config
+END
+CAD.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/345/trunk/Sistema/CAD/CAD.csproj
+END
+SQLConexion.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/366/trunk/Sistema/CAD/SQLConexion.cs
+END
+Ejemplo.xsc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/16/trunk/Sistema/CAD/Ejemplo.xsc
+END
+ExcelConexion.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/363/trunk/Sistema/CAD/ExcelConexion.cs
+END
+Ejemplo.xss
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/16/trunk/Sistema/CAD/Ejemplo.xss
+END
+Ejemplo.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/16/trunk/Sistema/CAD/Ejemplo.xsd
+END

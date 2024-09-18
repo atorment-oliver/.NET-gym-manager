@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- IMPORTANTE -->
+<!-- El el atributo DESCRIPTION de los SITEMAPNODE se tiene que poner el "Privilegio" de la base de datos al cual corresponde la opción de menu.  -->
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" enableLocalization="true" >
+    <siteMapNode url="" title="" description="" roles="*">      
+      <siteMapNode url="Account/Roles.aspx?id=0" title="$resources:Menu,Seguridad" description="">
+        <siteMapNode url="Account/Roles.aspx" title="$resources:Menu,Roles" description="Roles" />
+        <siteMapNode url="Account/Users.aspx" title="$resources:Menu,Usuarios" description="Usuarios" />
+      </siteMapNode>
+      <siteMapNode url="Parametros/Caja.aspx?id=0" title="$resources:Menu,Parametros" description="">
+        <siteMapNode url="Parametros/Caja.aspx" title="$resources:Menu,ConfiguracionCaja" description="ConfiguracionCajas" />
+        <siteMapNode url="Parametros/Coberturas.aspx" title="$resources:Menu,Coberturas" description="Coberturas" />
+        <siteMapNode url="Parametros/Paquetes.aspx" title="$resources:Menu,Paquetes" description="Paquetes" />
+        <siteMapNode url="Parametros/Promocion.aspx" title="$resources:Menu,Promociones" description="Promociones" />
+        <siteMapNode url="Parametros/Licencias.aspx" title="$resources:Menu,Licencias" description="Licencias" />
+        <siteMapNode url="Parametros/Parametro.aspx" title="$resources:Menu,Parametros" description="Parametros" />
+      </siteMapNode>
+      <siteMapNode url="Caja/Caja.aspx?id=0" title="$resources:Menu,Caja" description="Caja">
+        <siteMapNode url="Caja/Caja.aspx" title="$resources:Menu,Caja" description="Caja" />
+        <siteMapNode url="Caja/Revision.aspx" title="$resources:Menu,DiferenciaCaja" description="DiferenciaCaja" />        
+      </siteMapNode>
+      <siteMapNode url="Servicios/Salas.aspx?id=0" title="$resources:Menu,Servicios" description="">
+        <siteMapNode url="Servicios/Salas.aspx" title="$resources:Menu,Salas" description="Salas" />
+        <siteMapNode url="Servicios/Horarios.aspx" title="$resources:Menu,Horarios" description="Horarios" />  
+        <siteMapNode url="Servicios/Grupos.aspx" title="$resources:Menu,Disciplinas" description="Servicios" />
+      </siteMapNode>
+      <siteMapNode url="Clientes/Clientes.aspx?id=0" title="$resources:Menu,ClientesActivos" description="">
+        <siteMapNode url="Clientes/Clientes.aspx" title="$resources:Menu,Clientes" description="Clientes" />
+        <siteMapNode url="ClienteExterno/ClienteExterno.aspx" title="$resources:Menu,ClientesExternos" description="Clientes" />
+        <siteMapNode url="Clientes/ABMCliente.aspx" title="$resources:Menu,ADMClientes" description="Adm. Clientes" />
+        <siteMapNode url="Clientes/Empresas.aspx" title="$resources:Menu,Empresas" description="Empresas" />
+        <siteMapNode url="Clientes/EmpresasEliminacion.aspx" title="$resources:Menu,EmpresasEliminacion" description="EmpresasEliminacion" />
+        <siteMapNode url="Clientes/ClientesExcel.aspx" title="$resources:Menu,ClientesExcel" description="Adm. Clientes" />
+        <siteMapNode url="Clientes/ClienteConsulta.aspx" title="$resources:Menu,ConsultaMedica" description="Consulta medica" />
+      </siteMapNode>
+      <siteMapNode url="Caja/DistribucionPago.aspx?id=0" title="$resources:Menu,Pagos" description="">
+        <siteMapNode url="Caja/DistribucionPago.aspx" title="$resources:Menu,DistribucionPago" description="DistribucionPago" />
+        <siteMapNode url="Clientes/PagosEmpresa.aspx" title="$resources:Menu,PagosEmpresa" description="PagosEmpresa" />
+      </siteMapNode>
+      <siteMapNode url="Reportes/Horarios.aspx?id=0" title="$resources:Menu,Reportes" description="">
+        <siteMapNode url="Reportes/rHorarios.aspx" title="$resources:Menu,rhorarios" description="rHorarios" />
+        <!--<siteMapNode url="Reportes/rPagos.aspx" title="$resources:Menu,rPagos" description="ReportePagos" />-->
+        <siteMapNode url="Reportes/rPagoGeneral.aspx" title="$resources:Menu,rPagoGeneral" description="ReportePagos" />
+        <siteMapNode url="Reportes/rPromociones.aspx" title="$resources:Menu,rPromociones" description="ReportePromociones" />
+        <siteMapNode url="Reportes/rClientes.aspx" title="$resources:Menu,rClientesFecha" description="ReporteClientesActivos" />
+        <siteMapNode url="Reportes/rClientesActivos.aspx" title="$resources:Menu,rClientesActivos" description="ReporteClientesActivos" />
+        <siteMapNode url="Reportes/rClientesDatos.aspx" title="$resources:Menu,rClientesDatos" description="ReporteClientesActivos" />
+        <siteMapNode url="Reportes/rDistribucionesPendientes.aspx" title="$resources:Menu,rDistribucionesPendientes" description="ReporteDistribucionesPendientes" />
+        <siteMapNode url="Reportes/rDistribucionPago.aspx" title="$resources:Menu,rDistribucionPago" description="ReporteDistribucionesPago" />
+        <siteMapNode url="Reportes/rPagoEmpresaGeneral.aspx" title="$resources:Menu,rPagoEmpresaGeneral" description="ReportePagosEmpresa" />
+      </siteMapNode>
+      <siteMapNode url="Tests/Settings.aspx?id=0" title="$resources:Menu,Test" description="Test">
+        <siteMapNode url="Tests/Settings.aspx" title="$resources:Menu,Settings" description="Test" />
+      </siteMapNode>
+    </siteMapNode>
+</siteMap>
+

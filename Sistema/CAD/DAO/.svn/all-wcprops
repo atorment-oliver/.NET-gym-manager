@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/458/trunk/Sistema/CAD/DAO
+END
+DAOHorario.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/373/trunk/Sistema/CAD/DAO/DAOHorario.cs
+END
+DAOPagoEmpresa.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/455/trunk/Sistema/CAD/DAO/DAOPagoEmpresa.cs
+END
+DAOUnidad.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/89/trunk/Sistema/CAD/DAO/DAOUnidad.cs
+END
+DAOPaquete.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/381/trunk/Sistema/CAD/DAO/DAOPaquete.cs
+END
+DAOMovimientoCaja.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/421/trunk/Sistema/CAD/DAO/DAOMovimientoCaja.cs
+END
+DAOPromocion.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/355/trunk/Sistema/CAD/DAO/DAOPromocion.cs
+END
+DAODistribucionPago.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/333/trunk/Sistema/CAD/DAO/DAODistribucionPago.cs
+END
+DAOLicencia.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/359/trunk/Sistema/CAD/DAO/DAOLicencia.cs
+END
+DAOClientePaquete.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/358/trunk/Sistema/CAD/DAO/DAOClientePaquete.cs
+END
+DAOPromocionCliente.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/422/trunk/Sistema/CAD/DAO/DAOPromocionCliente.cs
+END
+DAOClienteFecha.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/381/trunk/Sistema/CAD/DAO/DAOClienteFecha.cs
+END
+DAOGrupoDia.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/192/trunk/Sistema/CAD/DAO/DAOGrupoDia.cs
+END
+DAOSala.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/191/trunk/Sistema/CAD/DAO/DAOSala.cs
+END
+DAOInscripcion.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/416/trunk/Sistema/CAD/DAO/DAOInscripcion.cs
+END
+DAOEmpresaPaquete.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/356/trunk/Sistema/CAD/DAO/DAOEmpresaPaquete.cs
+END
+DAOServicio.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/225/trunk/Sistema/CAD/DAO/DAOServicio.cs
+END
+DAOCliente.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/458/trunk/Sistema/CAD/DAO/DAOCliente.cs
+END
+DAOVersion.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/344/trunk/Sistema/CAD/DAO/DAOVersion.cs
+END
+DAOFactura.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/16/trunk/Sistema/CAD/DAO/DAOFactura.cs
+END
+DAOEmpleado.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/16/trunk/Sistema/CAD/DAO/DAOEmpleado.cs
+END
+DAOConsulta.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/393/trunk/Sistema/CAD/DAO/DAOConsulta.cs
+END
+DAODFactura.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/16/trunk/Sistema/CAD/DAO/DAODFactura.cs
+END
+DAOParametro.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/381/trunk/Sistema/CAD/DAO/DAOParametro.cs
+END
+DAOPagoCliente.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/418/trunk/Sistema/CAD/DAO/DAOPagoCliente.cs
+END
+DAOGrupo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/372/trunk/Sistema/CAD/DAO/DAOGrupo.cs
+END
+DAOEmpresa.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/356/trunk/Sistema/CAD/DAO/DAOEmpresa.cs
+END
+DAOIntercambio.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/351/trunk/Sistema/CAD/DAO/DAOIntercambio.cs
+END
+DAOCaja.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/403/trunk/Sistema/CAD/DAO/DAOCaja.cs
+END
+DAOTipoPaquete.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/119/trunk/Sistema/CAD/DAO/DAOTipoPaquete.cs
+END

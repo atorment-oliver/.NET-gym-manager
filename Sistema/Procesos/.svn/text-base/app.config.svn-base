@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appSettings>
+    <add key="correos" value="diego.zalles@gmail.com"></add>
+    <add key="vencimientos" value="clientes@vipcenter.com.bo"></add>
+    <add key="DB" value="data source=WASHINGTON\SQLENTER;Initial Catalog=vipcenter;Integrated Security = True"></add>
+  </appSettings>
+  <system.net>
+    <mailSettings>
+      <smtp from="test@carpinteart.net">
+        <network
+             host="mail.carpinteart.net"
+             userName="test@carpinteart.net"
+             password="Diego123"/>
+      </smtp>
+    </mailSettings>
+  </system.net>
+</configuration>

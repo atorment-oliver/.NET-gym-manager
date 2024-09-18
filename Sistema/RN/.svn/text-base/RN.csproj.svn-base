@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{533A5D9B-1272-4158-B207-BED32AE208AF}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>RN</RootNamespace>
+    <AssemblyName>RN</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Componentes\CCaja.cs" />
+    <Compile Include="Componentes\CCliente.cs" />
+    <Compile Include="Componentes\CClientePaquete.cs" />
+    <Compile Include="Componentes\CClientePaqueteD.cs" />
+    <Compile Include="Componentes\CDistribucionPago.cs" />
+    <Compile Include="Componentes\CEmpresa.cs" />
+    <Compile Include="Componentes\CGrupo.cs" />
+    <Compile Include="Componentes\CGrupoDia.cs" />
+    <Compile Include="Componentes\CHorario.cs" />
+    <Compile Include="Componentes\CInscripcion.cs" />
+    <Compile Include="Componentes\CLicencia.cs" />
+    <Compile Include="Componentes\CMovimientoCaja.cs" />
+    <Compile Include="Componentes\CVersion.cs" />
+    <Compile Include="Componentes\CPagoCliente.cs" />
+    <Compile Include="Componentes\CPagoEmpresa.cs" />
+    <Compile Include="Componentes\CPromocion.cs" />
+    <Compile Include="Componentes\CPromocionCliente.cs" />
+    <Compile Include="Componentes\CSala.cs" />
+    <Compile Include="Componentes\CPaquete.cs" />
+    <Compile Include="Componentes\CServicio.cs" />
+    <Compile Include="Componentes\CTipoPaquete.cs" />
+    <Compile Include="Componentes\CUnidad.cs" />
+    <Compile Include="Entidades\Caja.cs" />
+    <Compile Include="Entidades\Cliente.cs" />
+    <Compile Include="Entidades\ClientePaquete.cs" />
+    <Compile Include="Entidades\ClientePaqueteD.cs" />
+    <Compile Include="Entidades\Version.cs" />
+    <Compile Include="Entidades\DistribucionPago.cs" />
+    <Compile Include="Entidades\Grupo.cs" />
+    <Compile Include="Entidades\GrupoDia.cs" />
+    <Compile Include="Entidades\Horario.cs" />
+    <Compile Include="Entidades\Inscripcion.cs" />
+    <Compile Include="Entidades\Licencia.cs" />
+    <Compile Include="Entidades\MovimientoCaja.cs" />
+    <Compile Include="Entidades\PagoCliente.cs" />
+    <Compile Include="Entidades\PagoEmpresa.cs" />
+    <Compile Include="Entidades\Promocion.cs" />
+    <Compile Include="Entidades\PromocionCliente.cs" />
+    <Compile Include="Entidades\Sala.cs" />
+    <Compile Include="Entidades\Empresa.cs" />
+    <Compile Include="Entidades\Paquete.cs" />
+    <Compile Include="Entidades\Servicio.cs" />
+    <Compile Include="Entidades\TipoPaquete.cs" />
+    <Compile Include="Entidades\Unidad.cs" />
+    <Compile Include="Workflows\WClientePaquete.cs" />
+    <Compile Include="Workflows\WFactura.cs" />
+    <Compile Include="Entidades\DFactura.cs" />
+    <Compile Include="Entidades\Empleado.cs" />
+    <Compile Include="Componentes\CEmpleado.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Entidades\Factura.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ValidationException.cs" />
+    <Compile Include="Workflows\WGrupo.cs" />
+    <Compile Include="Workflows\WLicencia.cs" />
+    <Compile Include="Workflows\WPagoEmpresa.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CAD\CAD.csproj">
+      <Project>{010D6F5B-86A8-4F4B-8F06-189D4D5B8C49}</Project>
+      <Name>CAD</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

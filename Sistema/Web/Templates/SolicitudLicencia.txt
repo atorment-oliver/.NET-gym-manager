@@ -1,0 +1,39 @@
+﻿<body style="font-size:15px">
+
+    <p>
+        Estimado(a):</p>
+    <p>
+        <strong>[CLIENTE]</strong></p>
+    <p>
+        Se le notifica que su solicitud de licencia que solicit&oacute; la fecha [FECHASOLICITUD] ha sido aprobada</p>
+    <center>
+        <table border="1">
+            <colgroup>
+                <col width="100px" />
+                <col width="100px" />
+                <col width="300px" />
+            </colgroup>
+            <tr style="background:#fc7a00">
+                <th>Desde
+                </th>
+                <th>Hasta
+                </th>
+                <th>Motivo
+                </th>
+            </tr>
+            <tr>
+                <td>
+                    [DESDE]
+                </td>
+                <td>
+                    [HASTA]
+                </td>
+                <td>
+                    [MOTIVO]
+                </td>
+            </tr>
+        </table>
+        </center>
+        Atentamente.<br />
+    La Administraci&oacute;n VIP Center
+</body>

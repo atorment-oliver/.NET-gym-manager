@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/392/trunk/Sistema/RN/Entidades
+END
+PagoCliente.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/352/trunk/Sistema/RN/Entidades/PagoCliente.cs
+END
+Intercambio.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/351/trunk/Sistema/RN/Entidades/Intercambio.cs
+END
+Caja.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/123/trunk/Sistema/RN/Entidades/Caja.cs
+END
+TipoPaquete.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/114/trunk/Sistema/RN/Entidades/TipoPaquete.cs
+END
+ClienteDistribucion.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/381/trunk/Sistema/RN/Entidades/ClienteDistribucion.cs
+END
+PagoEmpresa.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/348/trunk/Sistema/RN/Entidades/PagoEmpresa.cs
+END
+Promocion.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/355/trunk/Sistema/RN/Entidades/Promocion.cs
+END
+DistribucionPago.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/296/trunk/Sistema/RN/Entidades/DistribucionPago.cs
+END
+PromocionCliente.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/307/trunk/Sistema/RN/Entidades/PromocionCliente.cs
+END
+ClienteFecha.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/381/trunk/Sistema/RN/Entidades/ClienteFecha.cs
+END
+GrupoDia.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/148/trunk/Sistema/RN/Entidades/GrupoDia.cs
+END
+Sala.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/107/trunk/Sistema/RN/Entidades/Sala.cs
+END
+Inscripcion.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/154/trunk/Sistema/RN/Entidades/Inscripcion.cs
+END
+EmpresaPaquete.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/356/trunk/Sistema/RN/Entidades/EmpresaPaquete.cs
+END
+Cliente.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/366/trunk/Sistema/RN/Entidades/Cliente.cs
+END
+Factura.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/16/trunk/Sistema/RN/Entidades/Factura.cs
+END
+Empleado.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/16/trunk/Sistema/RN/Entidades/Empleado.cs
+END
+Parametro.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/381/trunk/Sistema/RN/Entidades/Parametro.cs
+END
+Grupo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/191/trunk/Sistema/RN/Entidades/Grupo.cs
+END
+Empresa.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/29/trunk/Sistema/RN/Entidades/Empresa.cs
+END
+EmpresaD.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/356/trunk/Sistema/RN/Entidades/EmpresaD.cs
+END
+Horario.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/128/trunk/Sistema/RN/Entidades/Horario.cs
+END
+Unidad.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/91/trunk/Sistema/RN/Entidades/Unidad.cs
+END
+Paquete.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/119/trunk/Sistema/RN/Entidades/Paquete.cs
+END
+MovimientoCaja.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/327/trunk/Sistema/RN/Entidades/MovimientoCaja.cs
+END
+Licencia.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/266/trunk/Sistema/RN/Entidades/Licencia.cs
+END
+ClientePaquete.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/218/trunk/Sistema/RN/Entidades/ClientePaquete.cs
+END
+ClientePaqueteD.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/218/trunk/Sistema/RN/Entidades/ClientePaqueteD.cs
+END
+Servicio.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/147/trunk/Sistema/RN/Entidades/Servicio.cs
+END
+Version.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/344/trunk/Sistema/RN/Entidades/Version.cs
+END
+Consulta.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/392/trunk/Sistema/RN/Entidades/Consulta.cs
+END
+DFactura.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/16/trunk/Sistema/RN/Entidades/DFactura.cs
+END

@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/458/trunk/Sistema/Web/Reportes
+END
+rHorarios.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/333/trunk/Sistema/Web/Reportes/rHorarios.aspx
+END
+rRecaudacion.rdlc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/453/trunk/Sistema/Web/Reportes/rRecaudacion.rdlc
+END
+rPagoGeneral.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/453/trunk/Sistema/Web/Reportes/rPagoGeneral.aspx.cs
+END
+rClientesActivos.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/451/trunk/Sistema/Web/Reportes/rClientesActivos.aspx
+END
+rClientesDatos.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/451/trunk/Sistema/Web/Reportes/rClientesDatos.aspx
+END
+rDistribucionPendiente.rdlc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/438/trunk/Sistema/Web/Reportes/rDistribucionPendiente.rdlc
+END
+rClientesActivos.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/451/trunk/Sistema/Web/Reportes/rClientesActivos.aspx.cs
+END
+rClientesDatos.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/451/trunk/Sistema/Web/Reportes/rClientesDatos.aspx.cs
+END
+rDistribucionesPendientes.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/332/trunk/Sistema/Web/Reportes/rDistribucionesPendientes.aspx
+END
+rLicenciaImpresion.rdlc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/438/trunk/Sistema/Web/Reportes/rLicenciaImpresion.rdlc
+END
+rImpresionLicencia.rdlc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/438/trunk/Sistema/Web/Reportes/rImpresionLicencia.rdlc
+END
+rLicencia.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/296/trunk/Sistema/Web/Reportes/rLicencia.aspx
+END
+rClientesActivos.rdlc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/451/trunk/Sistema/Web/Reportes/rClientesActivos.rdlc
+END
+rDistribucionesPendientes.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/332/trunk/Sistema/Web/Reportes/rDistribucionesPendientes.aspx.cs
+END
+rPagos.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/332/trunk/Sistema/Web/Reportes/rPagos.aspx
+END
+rClientes.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/458/trunk/Sistema/Web/Reportes/rClientes.aspx.cs
+END
+rClientesDatos.rdlc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/448/trunk/Sistema/Web/Reportes/rClientesDatos.rdlc
+END
+rLicencia.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/296/trunk/Sistema/Web/Reportes/rLicencia.aspx.cs
+END
+rHorario.rdlc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/438/trunk/Sistema/Web/Reportes/rHorario.rdlc
+END
+rPagos.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/453/trunk/Sistema/Web/Reportes/rPagos.aspx.cs
+END
+rLicencia.rdlc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/438/trunk/Sistema/Web/Reportes/rLicencia.rdlc
+END
+rRecaudacionCierre.rdlc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/453/trunk/Sistema/Web/Reportes/rRecaudacionCierre.rdlc
+END
+rPagos.rdlc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/457/trunk/Sistema/Web/Reportes/rPagos.rdlc
+END
+rPagoGeneral.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/418/trunk/Sistema/Web/Reportes/rPagoGeneral.aspx
+END
+rHorarios.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/333/trunk/Sistema/Web/Reportes/rHorarios.aspx.cs
+END
+rPromociones.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/332/trunk/Sistema/Web/Reportes/rPromociones.aspx
+END
+rPagosEmpresa.rdlc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/440/trunk/Sistema/Web/Reportes/rPagosEmpresa.rdlc
+END
+rPromociones.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/332/trunk/Sistema/Web/Reportes/rPromociones.aspx.cs
+END
+rPagoEmpresaGeneral.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/439/trunk/Sistema/Web/Reportes/rPagoEmpresaGeneral.aspx
+END
+rDistribucionPago.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/332/trunk/Sistema/Web/Reportes/rDistribucionPago.aspx
+END
+rPagoEmpresaGeneral.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/439/trunk/Sistema/Web/Reportes/rPagoEmpresaGeneral.aspx.cs
+END
+rClientes.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/458/trunk/Sistema/Web/Reportes/rClientes.aspx
+END
+rPromociones.rdlc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/438/trunk/Sistema/Web/Reportes/rPromociones.rdlc
+END
+rDistribucionPago.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/332/trunk/Sistema/Web/Reportes/rDistribucionPago.aspx.cs
+END
+rRecibo.rdlc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/438/trunk/Sistema/Web/Reportes/rRecibo.rdlc
+END
+rDistribucionPago.rdlc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/438/trunk/Sistema/Web/Reportes/rDistribucionPago.rdlc
+END
+rClientes.rdlc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/458/trunk/Sistema/Web/Reportes/rClientes.rdlc
+END

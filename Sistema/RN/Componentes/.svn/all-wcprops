@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/458/trunk/Sistema/RN/Componentes
+END
+CServicio.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/205/trunk/Sistema/RN/Componentes/CServicio.cs
+END
+CCliente.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/458/trunk/Sistema/RN/Componentes/CCliente.cs
+END
+CVersion.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/344/trunk/Sistema/RN/Componentes/CVersion.cs
+END
+CEmpleado.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/16/trunk/Sistema/RN/Componentes/CEmpleado.cs
+END
+CConsulta.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/408/trunk/Sistema/RN/Componentes/CConsulta.cs
+END
+CPagoCliente.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/418/trunk/Sistema/RN/Componentes/CPagoCliente.cs
+END
+CParametro.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/381/trunk/Sistema/RN/Componentes/CParametro.cs
+END
+CGrupo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/370/trunk/Sistema/RN/Componentes/CGrupo.cs
+END
+CIntercambio.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/351/trunk/Sistema/RN/Componentes/CIntercambio.cs
+END
+CEmpresa.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/97/trunk/Sistema/RN/Componentes/CEmpresa.cs
+END
+CCaja.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/403/trunk/Sistema/RN/Componentes/CCaja.cs
+END
+CTipoPaquete.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/119/trunk/Sistema/RN/Componentes/CTipoPaquete.cs
+END
+CHorario.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/373/trunk/Sistema/RN/Componentes/CHorario.cs
+END
+CPagoEmpresa.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/455/trunk/Sistema/RN/Componentes/CPagoEmpresa.cs
+END
+CUnidad.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/90/trunk/Sistema/RN/Componentes/CUnidad.cs
+END
+CPaquete.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/381/trunk/Sistema/RN/Componentes/CPaquete.cs
+END
+CMovimientoCaja.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/421/trunk/Sistema/RN/Componentes/CMovimientoCaja.cs
+END
+CDistribucionPago.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/333/trunk/Sistema/RN/Componentes/CDistribucionPago.cs
+END
+CPromocion.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/418/trunk/Sistema/RN/Componentes/CPromocion.cs
+END
+CLicencia.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/361/trunk/Sistema/RN/Componentes/CLicencia.cs
+END
+CClientePaquete.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/358/trunk/Sistema/RN/Componentes/CClientePaquete.cs
+END
+CPromocionCliente.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/422/trunk/Sistema/RN/Componentes/CPromocionCliente.cs
+END
+CGrupoDia.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/191/trunk/Sistema/RN/Componentes/CGrupoDia.cs
+END
+CClienteFecha.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/381/trunk/Sistema/RN/Componentes/CClienteFecha.cs
+END
+CClientePaqueteD.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/215/trunk/Sistema/RN/Componentes/CClientePaqueteD.cs
+END
+CInscripcion.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/414/trunk/Sistema/RN/Componentes/CInscripcion.cs
+END
+CSala.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/191/trunk/Sistema/RN/Componentes/CSala.cs
+END
+CEmpresaPaquete.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/356/trunk/Sistema/RN/Componentes/CEmpresaPaquete.cs
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/366/trunk/Sistema/Web/Handlers
+END
+EmpresaCliente.ashx
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/314/trunk/Sistema/Web/Handlers/EmpresaCliente.ashx
+END
+Cliente.ashx
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/140/trunk/Sistema/Web/Handlers/Cliente.ashx
+END
+Servicio.ashx
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/205/trunk/Sistema/Web/Handlers/Servicio.ashx
+END
+ClienteServicios.ashx
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/296/trunk/Sistema/Web/Handlers/ClienteServicios.ashx
+END
+ClienteNoEmpresa.ashx
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/320/trunk/Sistema/Web/Handlers/ClienteNoEmpresa.ashx
+END
+ClienteCorporativos.ashx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/332/trunk/Sistema/Web/Handlers/ClienteCorporativos.ashx
+END
+ClienteCi.ashx
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/366/trunk/Sistema/Web/Handlers/ClienteCi.ashx
+END

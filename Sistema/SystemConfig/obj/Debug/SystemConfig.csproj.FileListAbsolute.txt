@@ -1,0 +1,10 @@
+C:\VIPCENTER\Sistema\SystemConfig\bin\Debug\SystemConfig.dll
+C:\VIPCENTER\Sistema\SystemConfig\bin\Debug\SystemConfig.pdb
+C:\VIPCENTER\Sistema\SystemConfig\obj\Debug\ResolveAssemblyReference.cache
+C:\VIPCENTER\Sistema\SystemConfig\obj\Debug\SystemConfig.dll
+C:\VIPCENTER\Sistema\SystemConfig\obj\Debug\SystemConfig.pdb
+C:\Diego\Personal\Trabajo\Sitios Web\Vip Center\Repositorio\Sistema\SystemConfig\bin\Debug\SystemConfig.dll
+C:\Diego\Personal\Trabajo\Sitios Web\Vip Center\Repositorio\Sistema\SystemConfig\bin\Debug\SystemConfig.pdb
+C:\Diego\Personal\Trabajo\Sitios Web\Vip Center\Repositorio\Sistema\SystemConfig\obj\Debug\ResolveAssemblyReference.cache
+C:\Diego\Personal\Trabajo\Sitios Web\Vip Center\Repositorio\Sistema\SystemConfig\obj\Debug\SystemConfig.dll
+C:\Diego\Personal\Trabajo\Sitios Web\Vip Center\Repositorio\Sistema\SystemConfig\obj\Debug\SystemConfig.pdb

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/453/trunk/Sistema/Web/App_Code
+END
+VIPCENTERDataSet.xss
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/453/trunk/Sistema/Web/App_Code/VIPCENTERDataSet.xss
+END
+VIPCENTERDataSet.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/453/trunk/Sistema/Web/App_Code/VIPCENTERDataSet.xsd
+END
+Security.xss
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/427/trunk/Sistema/Web/App_Code/Security.xss
+END
+Helper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/Sistema/Web/App_Code/Helper.cs
+END
+Security.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/427/trunk/Sistema/Web/App_Code/Security.xsd
+END
+AppSettings.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/381/trunk/Sistema/Web/App_Code/AppSettings.cs
+END
+MyPage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/16/trunk/Sistema/Web/App_Code/MyPage.cs
+END
+ControlClienteEventHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/145/trunk/Sistema/Web/App_Code/ControlClienteEventHandler.cs
+END
+Config.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/320/trunk/Sistema/Web/App_Code/Config.cs
+END
+AppSecurity.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/427/trunk/Sistema/Web/App_Code/AppSecurity.cs
+END
+RSSReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/233/trunk/Sistema/Web/App_Code/RSSReader.cs
+END

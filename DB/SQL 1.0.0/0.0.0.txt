@@ -1,0 +1,14 @@
+*****************************************************************************
+*	CREACIÓN DE BASE DE DATOS Y CONFIGURACION DE LAS TABLAS DE SEGURIDAD 
+*****************************************************************************
+
+	1. 	Ir a la dirección 
+		C:\Windows\Microsoft.NET\Framework\v2.0.50727
+
+	2. 	Ejecutar el programa
+		aspnet_regsql.exe
+
+	3. 	Utilizar el Wizard para crear las tablas del MEMBERSHIP Provider de ASP.Net
+		En el Wizard utilizar como base de datos a:
+
+		Database: VIPCENTER.

@@ -1,0 +1,14 @@
+﻿<h2>Diferencia en cierre de caja</h2>
+El sistema encontró una diferencia en el cierre de caja realizado por el usuario [USUARIO] en la caja número [CAJA].
+<br/>
+Fecha de cierre: [FECHA]
+<br/>
+<br/>
+Monto detectado por el sistema en transacciones: [MONTO_SISTEMA] Bs.
+<br/>
+Monto registrado por el usuario al realizar el cierre: [MONTO_USUARIO] Bs.
+<br/>
+<br/>
+OBSERVACION: [OBSERVACION]
+<br/>
+Para acceder al sistema a realizar la revisión y realizar la corrección ingrese a <a href="[LINK]Caja/Revision.aspx">click aqu&iacute;</a>

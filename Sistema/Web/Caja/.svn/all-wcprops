@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/445/trunk/Sistema/Web/Caja
+END
+Caja.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/430/trunk/Sistema/Web/Caja/Caja.aspx
+END
+Revision.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/440/trunk/Sistema/Web/Caja/Revision.aspx
+END
+Revision.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/440/trunk/Sistema/Web/Caja/Revision.aspx.cs
+END
+Caja.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/445/trunk/Sistema/Web/Caja/Caja.aspx.cs
+END
+DistribucionPago.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/441/trunk/Sistema/Web/Caja/DistribucionPago.aspx
+END
+DistribucionPago.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/440/trunk/Sistema/Web/Caja/DistribucionPago.aspx.cs
+END

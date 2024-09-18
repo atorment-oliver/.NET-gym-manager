@@ -1,0 +1,66 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Cliente.master.cs" Inherits="ClienteMaster" %>
+
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="asp" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Sistema Administrativo - VIP CENTER</title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Styles/jquery-ui-1.8.4.smoothness.css" rel="stylesheet" type="text/css" />    
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">          
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form runat="server">
+        <script src='<%=this.ResolveUrl("~/Scripts/jquery-1.4.1.min.js") %>' type="text/javascript"></script>        
+        <script src='<%=this.ResolveUrl("~/Scripts/jquery.simplemodal.js") %>' type="text/javascript"></script>
+        <script src='<%=this.ResolveUrl("~/Scripts/jquery.autocomplete.js") %>' type="text/javascript"></script>
+        <script src='<%=this.ResolveUrl("~/Scripts/jquery.msgBox.v1.js") %>' type="text/javascript"></script> 
+        <script src='<%=this.ResolveUrl("~/Scripts/jquery-ui-1.7.2.custom.min.js") %>' type="text/javascript"></script>
+        <asp:ToolkitScriptManager ID="ToolkitScriptManager1" ScriptMode="Release" runat="server">
+        </asp:ToolkitScriptManager>
+        <div id="divEsperaAjax" class="esperaAjax">
+            <img alt="" src='<%=ResolveUrl("~/img/esperaAjax.gif")%>' style="vertical-align: bottom" />&nbsp;Procesando...
+        </div>
+        <div id="divFondoEsperaAjax" class="fondoEsperaAjax">&nbsp;</div>
+    <div class="page">
+        <div class="header">
+            <div class="title">
+                <h1>                    
+                    <img src="<%= Config.GetPath("Images/logo.jpg") %>" height="75" /> <asp:Literal runat="server" ID="lblTitulo" meta:resourcekey="lblTitulo"></asp:Literal>
+                </h1>
+            </div>
+            <div class="loginDisplay">
+                <asp:LoginView ID="HeadLoginView" runat="server" EnableViewState="false">
+                    <AnonymousTemplate>
+                        [ <a href="~/Account/Login.aspx" ID="HeadLoginStatus" runat="server"><asp:Literal runat="server" ID="lblIniciarSesion" meta:resourcekey="lblIniciarSesion"></asp:Literal></a> ] - [ <a href='<%= Config.GetPath("Account/PasswordRecovery.aspx") %>'><asp:Literal runat="server" ID="lblPasswordRecovery" meta:resourcekey="lblPasswordRecovery"></asp:Literal></a> ] 
+                    </AnonymousTemplate>
+                    <LoggedInTemplate>
+                        <asp:Literal runat="server" ID="lblBienvenido" meta:resourcekey="lblBienvenido"></asp:Literal> <span class="bold"><asp:LoginName ID="HeadLoginName" runat="server" /></span> [ <a href='<%= Config.GetPath("Account/ChangePassword.aspx") %>'><asp:Literal runat="server" ID="lblChangePassword" meta:resourcekey="lblChangePassword"></asp:Literal></a> ] 
+                        <br />
+                        [ <asp:LoginStatus ID="HeadLoginStatus" runat="server" LogoutAction="Redirect" LogoutText="Cerrar sesión" LogoutPageUrl="~/"/> ]
+                    </LoggedInTemplate>
+                </asp:LoginView>
+            </div>
+            <div class="clear hideSkiplink">
+                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" IncludeStyleBlock="false" Orientation="Horizontal">
+                </asp:Menu>
+            </div>
+        </div>
+        <div class="main">
+        <script type="text/javascript" src='<%=this.ResolveUrl("~/scripts/global.js") %>'></script>
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer">
+        <asp:Literal runat="server" ID="lblCopyrights" meta:resourcekey="lblCopyrights"></asp:Literal>        
+        <br />
+        <asp:Literal runat="server" ID="lblLugar" meta:resourcekey="lblLugar"></asp:Literal>        
+    </div>
+    </form>
+</body>
+</html>
